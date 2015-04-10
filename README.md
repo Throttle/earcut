@@ -1,6 +1,6 @@
 ### earcut.py
 
-earcut.py is a simple port of earcut.js by Vladimir Agafonkin ([https://github.com/mourner/earcut-js](https://github.com/mourner/earcut-js))
+earcut.py is a simple port of earcut.js by Vladimir Agafonkin ([https://github.com/mapbox/earcut](https://github.com/mapbox/earcut))
 
 ### Usage
 
